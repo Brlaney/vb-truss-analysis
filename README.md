@@ -5,7 +5,7 @@ For more information on **BriefFiniteElement.Net**, checkout their [Github](http
 
 ## Installation
 
-Use the nuget package manager [pip](https://www.nuget.org/packages/BriefFiniteElement.NET) to install BriefFiniteElement into the project.
+Use the package manager [nuget](https://www.nuget.org/packages/BriefFiniteElement.NET) to install BriefFiniteElement into the project.
 
 ```.NET CLI
 dotnet add package BriefFiniteElement.Net --version 2.0.6
